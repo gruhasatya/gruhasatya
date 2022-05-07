@@ -1,5 +1,5 @@
  <p align="center">
-    <img src= "C:\Users\Asus\Downloads\Bhaskar_Reddy-main\Bhaskar_Reddy-main\images\Bhaskar Reddy (1).png"alt="GitHub Stats" /> <br/><br/>
+    <img src= "images\Bhaskar Reddy (1).png"alt="GitHub Stats" /> <br/><br/>
   </p>
 <h2>Hi There!✌ </h2>
 
