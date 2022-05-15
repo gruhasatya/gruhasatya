@@ -8,6 +8,7 @@ I'm a Computer Science Student!
 
 - Machine Learning 
 - Web Desiging
+- Development
 
 <h2> About Bhaskar Reddy⚡:</h2>
 
